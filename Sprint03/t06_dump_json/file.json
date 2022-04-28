@@ -1,0 +1,165 @@
+{
+    "equation": "x^2+0.0x+0.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -0.0
+    }
+}
+{
+    "equation": "120.0x^2+-1.0x+0.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            0.0,
+            0.008
+        ]
+    }
+}
+{
+    "equation": "15.0x^2+1.8x+1.0=0",
+    "solution": {
+        "discriminant": -56.76,
+        "x": null
+    }
+}
+{
+    "equation": "x^2+4.0x+4.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -2.0
+    }
+}
+{
+    "equation": "x^2+5.0x+6.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            -3.0,
+            -2.0
+        ]
+    }
+}
+{
+    "equation": "19.0x^2+-4.0x+2.0=0",
+    "solution": {
+        "discriminant": -136.0,
+        "x": null
+    }
+}
+{
+    "equation": "13.0x^2+-19.0x+9.0=0",
+    "solution": {
+        "discriminant": -107.0,
+        "x": null
+    }
+}
+{
+    "equation": "x^2+0.0x+0.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -0.0
+    }
+}
+{
+    "equation": "120.0x^2+-1.0x+0.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            0.0,
+            0.008
+        ]
+    }
+}
+{
+    "equation": "15.0x^2+1.8x+1.0=0",
+    "solution": {
+        "discriminant": -56.76,
+        "x": null
+    }
+}
+{
+    "equation": "x^2+4.0x+4.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -2.0
+    }
+}
+{
+    "equation": "x^2+5.0x+6.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            -3.0,
+            -2.0
+        ]
+    }
+}
+{
+    "equation": "19.0x^2+-4.0x+2.0=0",
+    "solution": {
+        "discriminant": -136.0,
+        "x": null
+    }
+}
+{
+    "equation": "13.0x^2+-19.0x+9.0=0",
+    "solution": {
+        "discriminant": -107.0,
+        "x": null
+    }
+}
+{
+    "equation": "x^2+0.0x+0.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -0.0
+    }
+}
+{
+    "equation": "120.0x^2+-1.0x+0.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            0.0,
+            0.008
+        ]
+    }
+}
+{
+    "equation": "15.0x^2+1.8x+1.0=0",
+    "solution": {
+        "discriminant": -56.76,
+        "x": null
+    }
+}
+{
+    "equation": "x^2+4.0x+4.0=0",
+    "solution": {
+        "discriminant": 0.0,
+        "x": -2.0
+    }
+}
+{
+    "equation": "x^2+5.0x+6.0=0",
+    "solution": {
+        "discriminant": 1.0,
+        "x": [
+            -3.0,
+            -2.0
+        ]
+    }
+}
+{
+    "equation": "19.0x^2+-4.0x+2.0=0",
+    "solution": {
+        "discriminant": -136.0,
+        "x": null
+    }
+}
+{
+    "equation": "13.0x^2+-19.0x+9.0=0",
+    "solution": {
+        "discriminant": -107.0,
+        "x": null
+    }
+}

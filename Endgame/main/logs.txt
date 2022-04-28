@@ -1,0 +1,4 @@
+:::::END_GAME::::: 2021-07-16 23:45:47,407 - INFO - Arguments parsed
+:::::END_GAME::::: 2021-07-16 23:45:48,244 - INFO - URL valid. Trying connect to host
+:::::END_GAME::::: 2021-07-16 23:45:48,244 - INFO - Connection established
+:::::END_GAME::::: 2021-07-16 23:45:48,244 - INFO - RESPONSE CODE: 200 - STATUS: OK
